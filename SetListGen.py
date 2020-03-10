@@ -43,7 +43,6 @@ def modifyRepertoire(list):
 
     return
     
-
 #  Check setlist length against repertoire length
 
 def lengthCheck(length):
@@ -77,8 +76,6 @@ def printSet(list):
 ############ PROGRAM ############
 # still to be tested
 #modifyRepertoire(rt)
-
-
 
 # Get the length
 
